@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Metadata
+.metadata
+
+# Node.js
+node_modules
+.next
+
+# Java / Spring Boot
+target
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
